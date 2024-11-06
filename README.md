@@ -1,5 +1,5 @@
 # 2023-Sales-Analysis-Through-Tableau-Dashboard-Project
-
+![alt text](https://github.com/myselfadib/2023-Sales-Analysis-Through-Tableau-Dashboard-Project/blob/main/Sales%20Analysis%202023.png)
 This repository contains a Tableau dashboard designed to visualize and analyze sales data for the year 2023. The dashboard provides an intuitive graphical representation of sales trends, profit margins, and product performance across various subcategories. It is aimed at enabling stakeholders to make informed decisions quickly and effectively by providing a comprehensive view of the company's sales operations.
 
 ## Features
